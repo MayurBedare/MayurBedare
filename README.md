@@ -18,7 +18,7 @@ Currently Learning MERN Stack and Java Development.
 
 📫 How to Reach Me
 
-                  ![image](https://github.com/user-attachments/assets/0198d16d-3d2b-47eb-88be-128dde698eef)  ![image](https://github.com/user-attachments/assets/d82a90dd-94e6-472f-a9c6-b0a87db7eea7)
+  ![image](https://github.com/user-attachments/assets/673ea807-db10-4d95-a2e1-a1a7bbcb70cc)  ![image](https://github.com/user-attachments/assets/c42d5eee-0158-4e91-ab25-caaa7054b9aa)
 
 My Skills
 Programming Languages: JavaScript, Python, Java, C, C++ ,Xml
