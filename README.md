@@ -2,7 +2,7 @@ About Me
 
 Hi there 👋
 
-I'm Mayur Bedare, a passionate fresher who just completed my Bachelor of Engineering (BE) in Computer Science and Engineering (CSE). I'm eager to start my professional journey and contribute to innovative projects. I always learning new skills.
+I'm Mayur Bedare, A passionate fresher who has recently completed a Bachelor of Engineering (BE) in Computer Science and Engineering (CSE), I am eager to embark on my professional journey and contribute to innovative projects. I am committed to continuous learning and constantly acquiring new skills to grow and excel in my field.
 
 💼 Current Status
 Education: Bachelor of Engineering (BE) in Computer Science and Engineering (CSE)
