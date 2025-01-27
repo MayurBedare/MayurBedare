@@ -14,6 +14,7 @@ Currently Learning MERN Stack and Java Development.
 💬 Ask Me About
 
 ![image](https://github.com/user-attachments/assets/85899ee9-192f-4f7a-81d5-41d2bc65f638)  ![image](https://github.com/user-attachments/assets/e2bcdcc3-66d1-4556-bb9f-06900c008cf2)  ![image](https://github.com/user-attachments/assets/052be0bf-f513-4f29-b12a-57436f374ab0)  ![image](https://github.com/user-attachments/assets/e02c1cd5-ebdf-4375-8d74-15a0ed2b5694)
+
 ![image](https://github.com/user-attachments/assets/fbea031d-4d89-4ca0-b5af-22f1d033967d)  ![image](https://github.com/user-attachments/assets/ff6562da-c1eb-45f5-90fd-ec6e84d29fd8)  ![image](https://github.com/user-attachments/assets/a232bbcb-b326-40b1-b8ee-fbf09d702354)  ![image](https://github.com/user-attachments/assets/ea19602c-aec8-4b7a-ba9f-8f669d33fd6c)
 
 📫 How to Reach Me
