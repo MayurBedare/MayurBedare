@@ -1,103 +1,99 @@
-👋 Hi, I’m Mayur Bedare
+# 👋 Hi, I’m Mayur Bedare
 
-Java-Centric Full-Stack Developer | Microservices | Cloud-Native Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,dotnet,docker,kubernetes,jenkins,kafka,mysql,mongodb" />
+</p>
 
-I am Mayur Bedare, a dedicated Software Developer with a Post Graduate Diploma in Advanced Computing (PG-DAC) from Sunbeam Institute of Information Technology, Pune. I specialize in Java-centric full-stack development, focusing on designing scalable, secure, and production-ready applications.
+**Java-Centric Full-Stack Developer | Microservices | Cloud-Native**
 
-My core strength lies in building distributed systems using modern backend frameworks, secure API design, and cloud-native deployment practices.
+---
 
-🧠 Technical Expertise
-🔹 Backend & Architecture
+## 👨‍💻 About Me
 
-Java 21, Spring Boot
+I am **Mayur Bedare**, a **Software Developer** with a **Post Graduate Diploma in Advanced Computing (PG-DAC)** from  
+**Sunbeam Institute of Information Technology, Pune**.
 
-Secure REST API Design
+I specialize in **Java-centric full-stack development**, building **secure, scalable, and production-ready applications** using **Spring Boot**, **REST APIs**, and **React**.
 
-Spring Security (JWT, RBAC)
+I have hands-on experience with **microservices-based systems**, **asynchronous messaging**, and **cloud-native deployments**.
 
-Microservices-Inspired Architecture
+---
 
-Asynchronous Communication (Apache Kafka)
+## 🧠 Technical Skills
 
-🔹 Frontend
+### 🔹 Backend & Architecture
+- Java 21, Spring Boot
+- Secure REST API Design
+- Spring Security (JWT, RBAC)
+- Microservices Architecture
+- Apache Kafka
 
-React
+### 🔹 Frontend
+- React
+- Redux Toolkit
 
-Redux Toolkit
+### 🔹 DevOps & Cloud
+- Docker
+- Kubernetes
+- Jenkins (CI/CD)
 
-SPA Architecture
+### 🔹 Polyglot Services
+- Node.js (Express)
+- .NET (C#)
 
-🔹 Polyglot Services
+---
 
-Node.js (Express) – Catalog & Search Services
+## 📚 Featured Project: **Bookstack**
+### _Modern Library Management Platform_
 
-.NET (C#) – Centralized Logging Services
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-Architecture-blue" />
+  <img src="https://img.shields.io/badge/Cloud--Native-Kubernetes-success" />
+  <img src="https://img.shields.io/badge/Security-JWT%20%7C%20RBAC-critical" />
+</p>
 
-🔹 DevOps & Cloud-Native
+**Bookstack** is a **scalable, polyglot microservices-based library platform** designed for real-world use.
 
-Docker – Containerization
+**Key Highlights**
+- Spring Cloud Gateway as centralized entry point
+- Spring Boot core services (memberships, rentals, fines)
+- Node.js catalog & search service
+- Apache Kafka for async communication
+- .NET centralized logging service
+- React + Redux Toolkit frontend
+- Dockerized & deployed on Kubernetes
+- CI/CD automation using Jenkins
 
-Kubernetes – Service orchestration & horizontal scaling
+---
 
-Jenkins – CI/CD automation
+## 🚀 Other Projects
 
-📚 Featured Project: Bookstack
-The Modern Library Platform
+### 🏥 MediClick – Healthcare Platform
+- Full-stack healthcare application
+- Secure backend services
+- Third-party API integrations
 
-Microservices • Polyglot • Cloud-Native
+---
 
-Bookstack is a scalable, feature-rich library management platform engineered using a polyglot microservices architecture. It is designed to handle real-world scale, fault tolerance, and secure transactions.
+## 🎯 Focus Areas
+- Clean & maintainable architecture
+- Secure and scalable backend systems
+- Real-world problem solving
+- Continuous learning
 
-🏗️ Architecture Highlights
+---
 
-Spring Cloud Gateway as a centralized entry point
+## 📫 Connect With Me
 
-Spring Boot Core Services for memberships, rentals, and fine calculations
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
+</p>
 
-Node.js Catalog Service for advanced book search and trending algorithms
+---
 
-Apache Kafka for event-driven async communication
-
-.NET Logging Service for centralized log management
-
-React + Redux Toolkit frontend with optimistic UI
-
-🔐 Security & Payments
-
-JWT-based Authentication & Authorization
-
-Role-Based Access Control (RBAC)
-
-Secure Payment Flow (Server-side order creation + HMAC verification)
-
-☸️ Deployment
-
-Fully containerized using Docker
-
-Deployed on Kubernetes with horizontal scaling
-
-CI/CD pipelines automated using Jenkins
-
-📌 Bookstack reflects my ability to design end-to-end distributed systems, integrate multiple technologies, and apply industry-grade backend and DevOps practices.
-
-🎯 What I Care About
-
-Clean architecture & maintainable code
-
-Secure and scalable backend systems
-
-Real-world problem solving
-
-Continuous learning and engineering depth
-
-I aim to contribute to high-impact engineering teams that value performance, security, and system design excellence.
-
-📫 Let’s Connect
-
-Feel free to reach out if you want to:
-
-Discuss backend engineering or system design
-
-Collaborate on microservices or full-stack projects
-
-Talk about cloud-native architectures and DevOps
+⭐ *Always open to backend, full-stack, and microservices opportunities.*
