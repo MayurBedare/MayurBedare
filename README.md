@@ -1,14 +1,10 @@
 # 👋 Hi, I’m Mayur Bedare
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,dotnet,docker,kubernetes,jenkins,kafka,mysql,mongodb" />
-</p>
-
 **Java-Centric Full-Stack Developer | Microservices | Cloud-Native**
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am **Mayur Bedare**, a **Software Developer** with a **Post Graduate Diploma in Advanced Computing (PG-DAC)** from  
 **Sunbeam Institute of Information Technology, Pune**.
@@ -80,6 +76,12 @@ I have hands-on experience with **microservices-based systems**, **asynchronous 
 - Secure and scalable backend systems
 - Real-world problem solving
 - Continuous learning
+
+
+  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,dotnet,docker,kubernetes,jenkins,kafka,mysql,mongodb" />
+</p>
 
 ---
 
