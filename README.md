@@ -1,35 +1,103 @@
-About Me
+👋 Hi, I’m Mayur Bedare
 
-Hi there 👋
+Java-Centric Full-Stack Developer | Microservices | Cloud-Native Systems
 
-I'm Mayur Bedare, A passionate fresher who has recently completed a Bachelor of Engineering (BE) in Computer Science and Engineering (CSE), I am eager to embark on my professional journey and contribute to innovative projects. I am committed to continuous learning and constantly acquiring new skills to grow and excel in my field.
+I am Mayur Bedare, a dedicated Software Developer with a Post Graduate Diploma in Advanced Computing (PG-DAC) from Sunbeam Institute of Information Technology, Pune. I specialize in Java-centric full-stack development, focusing on designing scalable, secure, and production-ready applications.
 
-💼 Current Status
-Education: Bachelor of Engineering (BE) in Computer Science and Engineering (CSE)
-Looking for Opportunities: Actively seeking roles in software development, web development, backend development or any exciting tech projects.
+My core strength lies in building distributed systems using modern backend frameworks, secure API design, and cloud-native deployment practices.
 
-🌱 Learning
-Currently Learning MERN Stack and Java Development.
+🧠 Technical Expertise
+🔹 Backend & Architecture
 
-💬 Ask Me About
+Java 21, Spring Boot
 
-![image](https://github.com/user-attachments/assets/85899ee9-192f-4f7a-81d5-41d2bc65f638)  ![image](https://github.com/user-attachments/assets/e2bcdcc3-66d1-4556-bb9f-06900c008cf2)  ![image](https://github.com/user-attachments/assets/052be0bf-f513-4f29-b12a-57436f374ab0)  ![image](https://github.com/user-attachments/assets/e02c1cd5-ebdf-4375-8d74-15a0ed2b5694)
+Secure REST API Design
 
-![image](https://github.com/user-attachments/assets/fbea031d-4d89-4ca0-b5af-22f1d033967d)  ![image](https://github.com/user-attachments/assets/ff6562da-c1eb-45f5-90fd-ec6e84d29fd8)  ![image](https://github.com/user-attachments/assets/a232bbcb-b326-40b1-b8ee-fbf09d702354)  ![image](https://github.com/user-attachments/assets/ea19602c-aec8-4b7a-ba9f-8f669d33fd6c)
+Spring Security (JWT, RBAC)
 
-📫 How to Reach Me
+Microservices-Inspired Architecture
 
-  ![image](https://github.com/user-attachments/assets/673ea807-db10-4d95-a2e1-a1a7bbcb70cc)  ![image](https://github.com/user-attachments/assets/c42d5eee-0158-4e91-ab25-caaa7054b9aa)
+Asynchronous Communication (Apache Kafka)
 
-My Skills
-Programming Languages: JavaScript, Python, Java, C, C++ ,Xml
-Frameworks: React, Django
-Tools: Git, Replit, Jupyter Notebook
-Databases: MySQL, Mongodb
+🔹 Frontend
 
-Hobbies & Interests
-Tech: Contributing to open-source projects, exploring new technologies.
-Knowledge: Reading Books
-Sports: Cricket
+React
 
-Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi!
+Redux Toolkit
+
+SPA Architecture
+
+🔹 Polyglot Services
+
+Node.js (Express) – Catalog & Search Services
+
+.NET (C#) – Centralized Logging Services
+
+🔹 DevOps & Cloud-Native
+
+Docker – Containerization
+
+Kubernetes – Service orchestration & horizontal scaling
+
+Jenkins – CI/CD automation
+
+📚 Featured Project: Bookstack
+The Modern Library Platform
+
+Microservices • Polyglot • Cloud-Native
+
+Bookstack is a scalable, feature-rich library management platform engineered using a polyglot microservices architecture. It is designed to handle real-world scale, fault tolerance, and secure transactions.
+
+🏗️ Architecture Highlights
+
+Spring Cloud Gateway as a centralized entry point
+
+Spring Boot Core Services for memberships, rentals, and fine calculations
+
+Node.js Catalog Service for advanced book search and trending algorithms
+
+Apache Kafka for event-driven async communication
+
+.NET Logging Service for centralized log management
+
+React + Redux Toolkit frontend with optimistic UI
+
+🔐 Security & Payments
+
+JWT-based Authentication & Authorization
+
+Role-Based Access Control (RBAC)
+
+Secure Payment Flow (Server-side order creation + HMAC verification)
+
+☸️ Deployment
+
+Fully containerized using Docker
+
+Deployed on Kubernetes with horizontal scaling
+
+CI/CD pipelines automated using Jenkins
+
+📌 Bookstack reflects my ability to design end-to-end distributed systems, integrate multiple technologies, and apply industry-grade backend and DevOps practices.
+
+🎯 What I Care About
+
+Clean architecture & maintainable code
+
+Secure and scalable backend systems
+
+Real-world problem solving
+
+Continuous learning and engineering depth
+
+I aim to contribute to high-impact engineering teams that value performance, security, and system design excellence.
+
+📫 Let’s Connect
+
+Feel free to reach out if you want to:
+
+Discuss backend engineering or system design
+
+Collaborate on microservices or full-stack projects
+
+Talk about cloud-native architectures and DevOps
