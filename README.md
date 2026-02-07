@@ -98,4 +98,4 @@ I have hands-on experience with **microservices-based systems**, **asynchronous 
   <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,dotnet,docker,kubernetes,jenkins,kafka,mysql,mongodb" />
 </p>
 
-⭐ *Always open to backend, full-stack, and microservices opportunities.*
+⭐ *Always open to backend, frontend or full-stack opportunities.*
